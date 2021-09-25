@@ -1,7 +1,7 @@
-# This lines offers a greeting to the user
+# This line offers a greeting to the user
 print("Hello! Welcome to the Band Name Generator!")
 
-# This lines is going to have as an output the city the user grew up in
+# This line is going to have as an output the city the user grew up in
 city = input("What city did you grow up in?\n")
 
 # This line is going to have as an output the user's pet's name
